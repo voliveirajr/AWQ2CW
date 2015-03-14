@@ -1,0 +1,7 @@
+#VirtualEnv
+bin
+include
+lib
+local
+pip-selfcheck.json
+.Python
