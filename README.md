@@ -1,4 +1,4 @@
-# AWQ2CW
+# AMQ2CW
 
 A Python code to create a daemon to export JMX data from ActiveMQ queues to Amazon CloudWatch services
 
